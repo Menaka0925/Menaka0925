@@ -1,21 +1,13 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Menaka — A mind for systems. An eye for detail."/>
-
-<br/>
+<img src="./assets/menaka-banner.png" width="100%" alt="Menaka — Personal technology brand"/>
 
 <a href="https://github.com/Menaka0925?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0B1020?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore my work"/>
 </a>
-
-<br/><br/>
-
-<em>Curious by nature. Deliberate by design.</em>
-
-<br/><br/>
-
-[Software](#04--technology) &nbsp; / &nbsp; [GitHub Stats](#05--github-activity) &nbsp; / &nbsp; [Repositories](https://github.com/Menaka0925?tab=repositories)
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Menaka0925&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -124,42 +116,8 @@ Making technology feel thoughtful.
 
 <div align="center">
 
-### 05 / GITHUB ACTIVITY
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Menaka0925&show_icons=true&hide_border=true&bg_color=0B1020&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" alt="Menaka's GitHub statistics"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=Menaka0925&hide_border=true&background=0B1020&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menaka0925&layout=compact&hide_border=true&bg_color=0B1020&title_color=58A6FF&text_color=C9D1D9" alt="Most-used programming languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 06 / A THOUGHT TO BUILD BY
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
-
-<br/><br/>
-
 <a href="https://github.com/Menaka0925?tab=repositories">
-  <img src="https://img.shields.io/badge/DISCOVER_MY_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Discover my repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-0B1020?style=flat-square&logo=github&logoColor=58A6FF" alt="Explore repositories"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Menaka0925&style=flat-square&color=2563EB&label=PROFILE+VISITS" alt="Profile visits"/>
-
-<br/><br/>
-
-<sub>MENAKA MOHANRAJ</sub>
-
-<br/>
-
-<sub>BUILDING &nbsp; / &nbsp; LEARNING &nbsp; / &nbsp; REFINING</sub>
 
 </div>
