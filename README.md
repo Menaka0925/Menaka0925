@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/menaka-banner.png" width="100%" alt="Menaka — Personal technology brand"/>
+<img src="./assets/banner.png" width="100%" alt="Menaka — Personal technology brand"/>
 
 <a href="https://github.com/Menaka0925?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0B1020?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore my work"/>
